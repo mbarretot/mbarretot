@@ -2,7 +2,7 @@
 
 ### Software Engineer
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=miguelbtcode&theme=dark&hide_border=true&border_radius=5&exclude_days=Sun)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mbarretot&theme=dark&hide_border=true&border_radius=5&exclude_days=Sun)](https://git.io/streak-stats)
 
 ## 🧑‍💻 About me
 
@@ -52,13 +52,13 @@ I’m a passionate Software Engineer focused on building robust, efficient, and 
 
 Here are some of the most relevant projects I've worked on, showcasing my skills in backend development, clean architecture, microservices, and cloud-native applications:
 
-🛒 **[Shopping Microservices with Kubernetes](https://github.com/miguelbtcode/shopping-microservices-k8s)**
+🛒 **[Shopping Microservices with Kubernetes](https://github.com/mbarretot/shopping-microservices-k8s)**
 A cloud-native e-commerce system using microservices architecture with .NET, ASPNETCore MVC (Client), MongoDB (Database No Relational), and deployed on Kubernetes. Focused on scalability, resilience, and observability.
 
 ⛅ **[Weather Dashboard](https://github.com/alexandercamachodev/auth-api)**  
 A responsive dashboard built with React and OpenWeatherMap API. It provides real-time weather updates and forecasts, featuring modern frontend design and state management.
 
-🚗 **[Vehicle Rental System - Clean Architecture](https://github.com/miguelbtcode/vehicle-rental-clean-architecture)**  
+🚗 **[Vehicle Rental System - Clean Architecture](https://github.com/mbarretot/vehicle-rental-clean-architecture)**  
 Backend system for a vehicle rental application, designed with Clean Architecture principles using .NET. Emphasizes domain-driven design, separation of concerns, and testability.
 
 ## 📎 Links
