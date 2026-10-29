@@ -20,7 +20,7 @@
 
 I translate business needs into clear technical solutions. Before choosing a framework or drawing a system boundary, I want to understand **what needs to work, why it matters, and what we are willing to trade off**.
 
-My software engineering background keeps architecture close to implementation. I'm interested in clean architecture, distributed systems, and cloud-native applications—and in making those ideas useful, not just adding complexity.
+My software engineering background keeps architecture close to implementation. I'm interested in clean architecture, distributed systems, and cloud-native applications. More than that, I care about making those ideas useful without adding complexity.
 
 **What I care about:** maintainability · clear decisions · code quality · shared learning.
 
@@ -48,7 +48,7 @@ A reference lab for deploying an ASP.NET Core API to Azure App Service using Git
 
 **Module boundaries before microservices.**
 
-An e-commerce backend in .NET with Catalog, Basket, and Ordering modules behind a single API host. One deployable, clear seams—ready to split only when the business needs it.
+An e-commerce backend in .NET with Catalog, Basket, and Ordering modules behind a single API host. One deployable with clear seams, ready to split only when the business needs it.
 
 [Explore the repository →](https://github.com/mbarretot/eshop-modular-monolith)
 
@@ -56,16 +56,16 @@ An e-commerce backend in .NET with Catalog, Basket, and Ordering modules behind 
 
 Notes on architecture and cloud identity from [Plano](https://www.planoarch.com) (in Spanish).
 
-- **[Workload Identity Federation](https://www.planoarch.com/blog/workload-identity-federation)** — deploying from GitHub Actions to Azure without secrets.
-- **[Managed Identity](https://www.planoarch.com/blog/managed-identity)** — applications that authenticate without storing passwords.
-- **[Entra ID B2B](https://www.planoarch.com/blog/entra-id-b2b)** — collaborating with external users without managing their credentials.
+- **[Workload Identity Federation](https://www.planoarch.com/blog/workload-identity-federation)**: deploying from GitHub Actions to Azure without secrets.
+- **[Managed Identity](https://www.planoarch.com/blog/managed-identity)**: applications that authenticate without storing passwords.
+- **[Entra ID B2B](https://www.planoarch.com/blog/entra-id-b2b)**: collaborating with external users without managing their credentials.
 
 ## Connect
 
 **Have a problem worth thinking through? Let's connect.**
 
 <p>
-  <a href="https://www.planoarch.com"><img src="https://img.shields.io/badge/READ_THE_BLOG-PLANO-6E9BE8?style=for-the-badge&amp;labelColor=202B38" alt="Read the blog — Plano" /></a>
+  <a href="https://www.planoarch.com"><img src="https://img.shields.io/badge/READ_THE_BLOG-PLANO-6E9BE8?style=for-the-badge&amp;labelColor=202B38" alt="Read the Plano blog" /></a>
   <a href="https://miguelbarretodev.vercel.app"><img src="https://img.shields.io/badge/EXPLORE-PORTFOLIO-66899B?style=for-the-badge&amp;labelColor=202B38" alt="Explore my portfolio" /></a>
 </p>
 
