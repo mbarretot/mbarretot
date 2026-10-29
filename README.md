@@ -14,8 +14,6 @@
   <a href="#connect">Connect</a>
 </p>
 
----
-
 ## About Me
 
 ### 🧭 Start with the problem. Make the tradeoffs explicit.
@@ -30,32 +28,29 @@ My software engineering background keeps architecture close to implementation. I
 
 A closer look at the ideas I explore through code.
 
-<table width="100%">
-  <tr>
-    <td width="100%" align="left" valign="top">
-      <h3>01 &nbsp; 🧱 .NET Clean Architecture</h3>
-      <p><strong>Business rules with clear, testable boundaries.</strong></p>
-      <p>An API-first reference for catalog, inventory, and orders. Follow a business operation from HTTP through application handlers and domain rules to PostgreSQL.</p>
-      <p><a href="https://github.com/mbarretot/dotnet-clean-architecture">Explore the architecture →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" align="left" valign="top">
-      <h3>02 &nbsp; 🔐 GitHub Actions → Azure OIDC</h3>
-      <p><strong>Deploy with federated identity, not a stored client secret.</strong></p>
-      <p>A reference lab for deploying an ASP.NET Core API to Azure App Service using GitHub Actions, OpenID Connect, and Microsoft Entra ID.</p>
-      <p><a href="https://github.com/mbarretot/github-actions-azure-oidc">Explore the deployment lab →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" align="left" valign="top">
-      <h3>03 &nbsp; 🛒 eShop Modular Monolith</h3>
-      <p><strong>Module boundaries before microservices.</strong></p>
-      <p>An e-commerce backend in .NET with Catalog, Basket, and Ordering modules behind a single API host. One deployable, clear seams—ready to split only when the business needs it.</p>
-      <p><a href="https://github.com/mbarretot/eshop-modular-monolith">Explore the repository →</a></p>
-    </td>
-  </tr>
-</table>
+### 01 &nbsp; 🧱 .NET Clean Architecture
+
+**Business rules with clear, testable boundaries.**
+
+An API-first reference for catalog, inventory, and orders. Follow a business operation from HTTP through application handlers and domain rules to PostgreSQL.
+
+[Explore the architecture →](https://github.com/mbarretot/dotnet-clean-architecture)
+
+### 02 &nbsp; 🔐 GitHub Actions → Azure OIDC
+
+**Deploy with federated identity, not a stored client secret.**
+
+A reference lab for deploying an ASP.NET Core API to Azure App Service using GitHub Actions, OpenID Connect, and Microsoft Entra ID.
+
+[Explore the deployment lab →](https://github.com/mbarretot/github-actions-azure-oidc)
+
+### 03 &nbsp; 🛒 eShop Modular Monolith
+
+**Module boundaries before microservices.**
+
+An e-commerce backend in .NET with Catalog, Basket, and Ordering modules behind a single API host. One deployable, clear seams—ready to split only when the business needs it.
+
+[Explore the repository →](https://github.com/mbarretot/eshop-modular-monolith)
 
 ## Latest Writing
 
