@@ -28,29 +28,36 @@ My software engineering background keeps architecture close to implementation. I
 
 A closer look at the ideas I explore through code.
 
-### 01 &nbsp; 🧱 .NET Clean Architecture
-
-**Business rules with clear, testable boundaries.**
-
-An API-first reference for catalog, inventory, and orders. Follow a business operation from HTTP through application handlers and domain rules to PostgreSQL.
-
-[Explore the architecture →](https://github.com/mbarretot/dotnet-clean-architecture)
-
-### 02 &nbsp; 🔐 GitHub Actions → Azure OIDC
-
-**Deploy with federated identity, not a stored client secret.**
-
-A reference lab for deploying an ASP.NET Core API to Azure App Service using GitHub Actions, OpenID Connect, and Microsoft Entra ID.
-
-[Explore the deployment lab →](https://github.com/mbarretot/github-actions-azure-oidc)
-
-### 03 &nbsp; 🛒 eShop Modular Monolith
-
-**Module boundaries before microservices.**
-
-An e-commerce backend in .NET with Catalog, Basket, and Ordering modules behind a single API host. One deployable with clear seams, ready to split only when the business needs it.
-
-[Explore the repository →](https://github.com/mbarretot/eshop-modular-monolith)
+<table>
+  <tr>
+    <td width="50%" align="left" valign="top">
+      <h3>🧱 .NET Clean Architecture</h3>
+      <p><strong>Business rules with clear, testable boundaries.</strong></p>
+      <p>An API-first reference for catalog, inventory, and orders. Follow a business operation from HTTP through application handlers and domain rules to PostgreSQL.</p>
+      <p><a href="https://github.com/mbarretot/dotnet-clean-architecture">Explore the architecture →</a></p>
+    </td>
+    <td width="50%" align="left" valign="top">
+      <h3>🔐 GitHub Actions → Azure OIDC</h3>
+      <p><strong>Deploy with federated identity, not a stored client secret.</strong></p>
+      <p>A reference lab for deploying an ASP.NET Core API to Azure App Service using GitHub Actions, OpenID Connect, and Microsoft Entra ID.</p>
+      <p><a href="https://github.com/mbarretot/github-actions-azure-oidc">Explore the deployment lab →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="left" valign="top">
+      <h3>🛒 eShop Modular Monolith</h3>
+      <p><strong>Module boundaries before microservices.</strong></p>
+      <p>An e-commerce backend in .NET with Catalog, Basket, and Ordering modules behind a single API host. One deployable with clear seams, ready to split only when the business needs it.</p>
+      <p><a href="https://github.com/mbarretot/eshop-modular-monolith">Explore the repository →</a></p>
+    </td>
+    <td width="50%" align="left" valign="top">
+      <h3>☸️ Shopping Microservices on AKS</h3>
+      <p><strong>When the split is worth it, run it properly.</strong></p>
+      <p>A .NET API and web client with MongoDB, containerized and deployed to Azure Kubernetes Service with autoscaling and Azure DevOps pipelines.</p>
+      <p><a href="https://github.com/mbarretot/shopping-microservices-k8s">Explore the deployment →</a></p>
+    </td>
+  </tr>
+</table>
 
 ## Latest Writing
 
