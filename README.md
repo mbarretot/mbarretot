@@ -1,7 +1,5 @@
 <img src="assets/images/banner.png" alt="Illustrated portrait of Miguel Ángel Barreto with the title Solutions Architect and the line: problems first, thoughtful architecture" width="100%" />
 
-<h1 align="center">Miguel Ángel Barreto</h1>
-
 <p align="center">
   <strong>Architecture ideas, explored in code and shared in the open.</strong><br />
   A software engineer's mindset applied to system design.
